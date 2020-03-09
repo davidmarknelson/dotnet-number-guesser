@@ -1,0 +1,10 @@
+/Users/dmnelson/Coding/number-guesser-net/bin/Debug/netcoreapp3.1/number-guesser-net.deps.json
+/Users/dmnelson/Coding/number-guesser-net/bin/Debug/netcoreapp3.1/number-guesser-net.runtimeconfig.json
+/Users/dmnelson/Coding/number-guesser-net/bin/Debug/netcoreapp3.1/number-guesser-net.runtimeconfig.dev.json
+/Users/dmnelson/Coding/number-guesser-net/bin/Debug/netcoreapp3.1/number-guesser-net.dll
+/Users/dmnelson/Coding/number-guesser-net/bin/Debug/netcoreapp3.1/number-guesser-net.pdb
+/Users/dmnelson/Coding/number-guesser-net/obj/Debug/netcoreapp3.1/number-guesser-net.csprojAssemblyReference.cache
+/Users/dmnelson/Coding/number-guesser-net/obj/Debug/netcoreapp3.1/number-guesser-net.AssemblyInfoInputs.cache
+/Users/dmnelson/Coding/number-guesser-net/obj/Debug/netcoreapp3.1/number-guesser-net.AssemblyInfo.cs
+/Users/dmnelson/Coding/number-guesser-net/obj/Debug/netcoreapp3.1/number-guesser-net.dll
+/Users/dmnelson/Coding/number-guesser-net/obj/Debug/netcoreapp3.1/number-guesser-net.pdb
